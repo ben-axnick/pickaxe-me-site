@@ -24,7 +24,7 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
     console_logger (1.0.0)
-    diffy (3.3.0)
+    diffy (3.4.2)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
